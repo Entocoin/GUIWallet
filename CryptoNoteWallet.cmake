@@ -1,0 +1,4 @@
+set(CN_PROJECT_NAME "entocoin")
+set(CN_CURRENCY_DISPLAY_NAME "entocoin")
+set(CN_CURRENCY_TICKER "ENTO")
+set(CN_VERSION 1.2.0)
